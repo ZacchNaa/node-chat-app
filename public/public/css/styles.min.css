@@ -52,6 +52,37 @@ button:disabled {
   justify-content: center;
   align-items: center;
 }
+.room-info {
+  color: #c070cc;
+  position: absolute;
+  top: 520px;
+  left: 29em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#aside-info-head {
+  font-size: x-large;
+  font-weight: bold;
+}
+#aside-info {
+  color: #eee;
+  position: absolute;
+  top: 10em;
+  left: 55em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#activity-list ul li a {
+  text-decoration: none;
+  color: cornflowerblue;
+  padding: 2em;
+}
+#copyright {
+  position: absolute;
+  top: 63em;
+  left: 110em;
+  color: orange;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: x-small;
+}
 .centered-form__box {
   box-shadow: 0 0 17px 1px #1d1f26;
   background: #f7f7fa;
