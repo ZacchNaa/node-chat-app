@@ -73,7 +73,6 @@ button:disabled {
 #activity-list ul li a {
   text-decoration: none;
   color: cornflowerblue;
-  padding: 2em;
 }
 #copyright {
   position: absolute;
